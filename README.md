@@ -1,12 +1,3 @@
-<div align="center">
-  <a href="https://youtu.be/If7Xeozh17Q">
-    <img src="https://img.youtube.com/vi/If7Xeozh17Q/0.jpg" alt="OmniRoute GitHub: Free Unlimited AI Access Just Dropped">
-  </a>
-  <h3>📺 <a href="https://youtu.be/If7Xeozh17Q">Watch the full tutorial on YouTube</a></h3>
-</div>
-
-<div align="center">
-
 # 🚀 OmniRoute AI Explorer
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
